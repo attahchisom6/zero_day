@@ -14,14 +14,14 @@
 
 4). Insert your github credentials to identify yourself. <br>
      `git config --global user.name "github username"` <br>
-     `git config --global user.email "your github email"
+     `git config --global user.email "your github email"`
 
-4). add or connect to a remote branch (which is the one created using github graphical interface). <br>
+5). add or connect to a remote branch (which is the one created using github graphical interface). <br>
    `git remote add origin https://github.com/your@githubemail/directory.git` <br>
    or by using ssh url <br>
    `git remote add origin git@github.com:github_username/directory.git`
 
-5). push local repo to remote origin
+6). push local repo to remote origin
     `git push origin main/master`
 
 **DONE! THAT'S IT**
