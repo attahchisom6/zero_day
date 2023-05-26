@@ -57,4 +57,3 @@ bool isRayFacingLeft(float angle)
 {
 	return (!isRayFacingRight(angle));
 }
-
